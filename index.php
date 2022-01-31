@@ -4,6 +4,8 @@
 
 
     $cliente = new Cliente();
-    var_dump($cliente);
+    $prodotto = new Prodotto();
+    
+    var_dump($cliente, $prodotto)
 
 ?>
